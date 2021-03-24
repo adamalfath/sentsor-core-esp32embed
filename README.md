@@ -28,11 +28,6 @@ This board is a revision from previous [SENTSOR Core Board WROOM-32U](https://gi
 - **26 pin GPIO** @3V3 level, 3xUART, 2xSPI, 2xI2C, 2xI2S, 12bit ADC, 8bit DAC, hall-effect sensing, capacitive sensing, JTAG debug, etc. Please see pinout poster/schematic file for more information.
 
 ## How to Use
-### Installing USB-UART Driver
-Normally the CP2104 driver is automatically recognized and/or installed by Windows Update (for Windows OS). But if you have a problem, you can install it manually by downloading the latest driver here https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers. The step is straight forward, download the file and click the executable file to install the driver.  
-
-After this, you should see the serial communication device (and port number) both on your system (device manager) or in the Arduino IDE software. You can skip this step if you already install the driver.
-
 ### Installing ESP32 Hardware Package
 Chip from Espressif doesn't supported out-of-the-box by Arduino IDE so we need 3rd-party hardware package called ESP32 Arduino Core. The package installed using board manager, for detailed instruction on how to install ESP32 Arduino Core on Arduino IDE you can follow the step here
 https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md.
