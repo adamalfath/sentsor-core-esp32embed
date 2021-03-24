@@ -123,7 +123,7 @@ SENTSOR Core ESP32-EMBED is an open source hardware, please use it wisely. The p
 
 ## Gallery
 _Render View:_  
-<img src="https://github.com/adamalfath/sentsor-esp32embed/blob/main/media/esp32embed-render0.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-render1.png" width="400">  
+<img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-render0.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-render1.png" width="400">  
 <img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-render2.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-render3.png" width="400">
 
 ## Support Open Source Hardware & SENTSOR!
