@@ -34,7 +34,7 @@ https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_m
 
 Once it's done, ESP32 should be listed on the board selection menu. Choose **ESP32 Dev Module** on board option, **4MB (32Mb)** on the flash size option and set the PSRAM option to disabled. For the partition scheme (application memory & file system) you can choose the allocation combination as needed, and the other option can left as default.  
 <img src="https://github.com/adamalfath/sentsor-core-esp32embed/blob/main/media/esp32embed-arduinoideinfo.png" width="600">  
-Now your SENTSOR Core ESP32-EMBED is ready to be use! Again, you can skip this step if you already install the ESP32 hardware package.
+Now your SENTSOR Core ESP32-EMBED is ready to be use! You can skip this step if you already install the ESP32 hardware package.
 
 ### Programming & Uploading Firmware
 This board need an external programmer (USB to UART bridge) to upload the firmware, like FT232, CH340, CP2102, PL2303, etc. Connect the external programmer to the board according to wiring configuration below then do the upload process as usual.
