@@ -119,7 +119,7 @@ X = don't care. 1 mean the pad is connected, whether using 0Ω resistor or solde
 
 SENTSOR Core ESP32-EMBED is an open source hardware, please use it wisely. The project files is hosted on online based EDA called EasyEDA, you can access it via link below:  
 
->Link: https://easyeda.com/sentsor-project/sentsor-core-esp32-embed
+Link: https://easyeda.com/sentsor-project/sentsor-core-esp32-embed
 
 ## Gallery
 _Render View:_  
