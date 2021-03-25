@@ -54,7 +54,8 @@ DTR & RTS connection is optional for auto-reset signal. You can left it unconnec
 To access on-board peripheral like RTC, MicroSD & RGB LED you may need to install related library below:
 - RTCLib https://github.com/adafruit/RTClib
 - SdFat https://github.com/greiman/SdFat
-- NeoPixel https://github.com/adafruit/Adafruit_NeoPixel  
+- NeoPixel https://github.com/adafruit/Adafruit_NeoPixel
+- LC709203F https://github.com/adafruit/Adafruit_LC709203F  
 
 or any other library of your choice that have same functionality.
 
